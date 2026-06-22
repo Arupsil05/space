@@ -1,0 +1,13 @@
+body {
+  background-color: #f4f4f4;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+}
+
+/* Targets all <h1> headings */
+h1 {
+  color: #333333;
+  font-size: 24px;
+  text-align: center;
+}
